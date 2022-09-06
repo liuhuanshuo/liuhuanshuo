@@ -63,6 +63,3 @@
 &nbsp; <a href="mailto:huanshuo0801@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-
-
-<h3 align="center"> Thanks for Visiting!</h3>
