@@ -1,5 +1,11 @@
 <h2> Hey there! I'm Liuhuanshuo.</h2>
 
+[![Github](https://komarev.com/ghpvc/?username=liuhuanshuo)](https://github.com/liuhuanshuo)
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/liuhuanshuo)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huanshuo0801@gmail.com)
+[![Gmail](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-5w%2B-green?logo=wechat&style=social)](https://pic.liuzaoqi.com/picgo/202112150908823.jpeg)
+[![Gmail](https://img.shields.io/badge/%20follow-5k-green?logo=zhihu&style=social&logoColor=#019DFF)](https://www.zhihu.com/people/almost-lover-1hs)
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -16,7 +22,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-  ![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=matlab&logoColor=007396)
+  ![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=Matlab&logoColor=007396)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=hive)
@@ -34,7 +40,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-pycharm-333333?style=flat&logo=pycharm&logoColor=2CDA86)
+  ![Eclipse](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=2CDA86)
 <br/>
 <h3>  🎯 Work on Github </h3>
 
@@ -57,3 +63,6 @@
 &nbsp; <a href="mailto:huanshuo0801@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+
+
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
